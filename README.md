@@ -1,4 +1,4 @@
 RadixWebAPI
 ===========
 
-Radix Ad Network Web Access API
+GrowMob Ad Network Web Access API
